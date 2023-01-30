@@ -7,6 +7,18 @@ const LoginScreen = () => {
         <View style={styles.container}>
             <Text>
                 LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
+                LoginScreen
             </Text>
             <Button
                 title="click Now"
